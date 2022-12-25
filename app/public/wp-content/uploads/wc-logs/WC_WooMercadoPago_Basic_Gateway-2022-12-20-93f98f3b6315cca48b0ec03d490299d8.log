@@ -1,0 +1,1412 @@
+12-20-2022 @ 18:57:48 - [process_payment]: customer being redirected to Mercado Pago.
+12-20-2022 @ 18:57:48 - [get_transaction]: Preference: {
+    "additional_info": null,
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Lq2cx14yEEcXW&order_id=209&redirect&_wpnonce=93abf36716",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW"
+    },
+    "binary_mode": false,
+    "date_of_expiration": null,
+    "differential_pricing": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": null,
+    "external_reference": "WC-209",
+    "items": [
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "id": 42,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/demon-slayer-22-111-04dd1316af5869793c16518744900080-320-0.webp",
+            "quantity": 1,
+            "title": "DEMON SLAYER #22 x 1",
+            "unit_price": 1250
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "id": 16,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/bluelock011-d2dec87c3d65e4ccc916373365514818-320-0.webp",
+            "quantity": 1,
+            "title": "BLUE LOCK Vol #1 x 1",
+            "unit_price": 1250
+        }
+    ],
+    "marketplace": null,
+    "marketplace_fee": null,
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "module_version": "6.4.1",
+        "php_version": "8.1.9",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "291638556",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "installments": "1",
+            "credits_banner": "no",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_master": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_visa": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no"
+        },
+        "ticket_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "coupon_mode": "no",
+            "stock_reduce_mode": "no"
+        },
+        "pix_settings": [],
+        "seller_website": "http:\/\/mangarevenger.local",
+        "billing_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": "AR"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    },
+    "notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "payer": {
+        "address": {
+            "street_name": "chiole 948 \/ caba C AR",
+            "street_number": null,
+            "zip_code": "1112"
+        },
+        "date_created": null,
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "name": "sebast",
+        "phone": {
+            "area_code": null,
+            "number": "41234234234"
+        },
+        "surname": "tataa"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "installments": 1
+    },
+    "purpose": null,
+    "shipments": {
+        "cost": null,
+        "default_shipping_method": null,
+        "dimensions": null,
+        "free_shipping": null,
+        "local_pickup": null,
+        "mode": null,
+        "receiver_address": {
+            "apartment": "",
+            "city_name": "caba",
+            "floor": null,
+            "state_name": "C",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null,
+            "zip_code": "1112"
+        }
+    },
+    "sponsor_id": null,
+    "statement_descriptor": "Mercado Pago"
+}
+12-20-2022 @ 18:57:49 - [create_preference]: Created Preference: {
+    "additional_info": "",
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Lq2cx14yEEcXW&order_id=209&redirect&_wpnonce=93abf36716",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW"
+    },
+    "binary_mode": false,
+    "client_id": "6444229787319228",
+    "collector": {
+        "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller"
+        ],
+        "operator_id": null
+    },
+    "collector_id": 291638556,
+    "coupon_code": null,
+    "coupon_labels": null,
+    "date_created": "2022-12-20T14:57:49.080-04:00",
+    "date_of_expiration": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": false,
+    "external_reference": "WC-209",
+    "headers": [
+        {
+            "name": "product_id",
+            "value": "BT7OF5FEOO6G01NJK3QG"
+        },
+        {
+            "name": "platform_id",
+            "value": "bo2hnr2ic4p001kbgpt0"
+        }
+    ],
+    "id": "291638556-9697933d-e87b-4f57-a320-bdba85ec0fdd",
+    "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-9697933d-e87b-4f57-a320-bdba85ec0fdd",
+    "internal_metadata": [],
+    "items": [
+        {
+            "id": "42",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_617434-MLA52965659363_122022-F.jpg",
+            "picture_id": "617434-MLA52965659363_122022",
+            "title": "DEMON SLAYER #22 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        },
+        {
+            "id": "16",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_804334-MLA52965616682_122022-F.jpg",
+            "picture_id": "804334-MLA52965616682_122022",
+            "title": "BLUE LOCK Vol #1 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        }
+    ],
+    "live_mode": true,
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "metadata": {
+        "basic_settings": {
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "commission_checkbox": "no",
+            "credits_banner": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_visa": "yes",
+            "gateway_discount_checkbox": "no",
+            "installments": "1",
+            "method": "redirect"
+        },
+        "billing_address": {
+            "city_name": "caba",
+            "country_name": "AR",
+            "state_name": "C",
+            "street_name": "chiole 948",
+            "zip_code": "1112"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect",
+        "collector": "291638556",
+        "custom_settings": {
+            "binary_mode": "no",
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "wallet_button": "yes"
+        },
+        "details": "",
+        "module_version": "6.4.1",
+        "original_notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "php_version": "8.1.9",
+        "pix_settings": [],
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "seller_website": "http:\/\/mangarevenger.local",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "test_mode": true,
+        "ticket_settings": {
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "enabled": "yes",
+            "stock_reduce_mode": "no"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        }
+    },
+    "notification_url": "http:\/\/internal.mercadopago.com\/v1\/bifrost\/merchant-order-notification\/webhook\/production?source_news=ipn",
+    "operation_type": "regular_payment",
+    "payer": {
+        "phone": {
+            "area_code": "",
+            "number": "41234234234"
+        },
+        "address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null
+        },
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": "",
+            "type": ""
+        },
+        "name": "sebast",
+        "surname": "tataa",
+        "date_created": null,
+        "last_purchase": null
+    },
+    "payment_methods": {
+        "default_card_id": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+            {
+                "id": ""
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": ""
+            }
+        ],
+        "installments": 1,
+        "default_installments": null
+    },
+    "processing_modes": null,
+    "product_id": "BT7OF5FEOO6G01NJK3QG",
+    "purpose": "",
+    "redirect_urls": {
+        "failure": "",
+        "pending": "",
+        "success": ""
+    },
+    "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-9697933d-e87b-4f57-a320-bdba85ec0fdd",
+    "site_id": "MLA",
+    "shipments": {
+        "default_shipping_method": null,
+        "receiver_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null,
+            "floor": "",
+            "apartment": "",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": null
+        }
+    },
+    "statement_descriptor": "Mercado Pago",
+    "total_amount": 2500,
+    "last_updated": null
+}
+12-20-2022 @ 19:14:11 - [process_payment]: customer being redirected to Mercado Pago.
+12-20-2022 @ 19:14:11 - [get_transaction]: Preference: {
+    "additional_info": null,
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_RidRQW16wJ0wM&order_id=211&redirect&_wpnonce=5c677d75b3",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/211\/?key=wc_order_RidRQW16wJ0wM",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/211\/?key=wc_order_RidRQW16wJ0wM"
+    },
+    "binary_mode": false,
+    "date_of_expiration": null,
+    "differential_pricing": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": null,
+    "external_reference": "WC-211",
+    "items": [
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Japon-sufre-de-manera-constante-el-ataque-de-monstruos-de-diversas-formas-y-tamanos-llamados-KAIJU-que-causan-caos-y-destruccion-por-donde-sea-que-pasan.-A-causa-de-esto-existe-el-Cuerpo-de-Defensa-un-comando-que-se-encarga-d",
+            "id": 44,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/kaiju8_011-f3219364e8d49a687816536807240552-320-0.webp",
+            "quantity": 1,
+            "title": "KAIJU Nº 8 VOL.1 x 1",
+            "unit_price": 1250
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "id": 16,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/bluelock011-d2dec87c3d65e4ccc916373365514818-320-0.webp",
+            "quantity": 1,
+            "title": "BLUE LOCK Vol #1 x 1",
+            "unit_price": 1250
+        }
+    ],
+    "marketplace": null,
+    "marketplace_fee": null,
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "module_version": "6.4.1",
+        "php_version": "8.1.9",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "291638556",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "installments": "1",
+            "credits_banner": "no",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_master": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_visa": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no"
+        },
+        "ticket_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "coupon_mode": "no",
+            "stock_reduce_mode": "no"
+        },
+        "pix_settings": [],
+        "seller_website": "http:\/\/mangarevenger.local",
+        "billing_address": {
+            "zip_code": "1098",
+            "street_name": "chile 333",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": "AR"
+        },
+        "user": {
+            "registered_user": "no",
+            "user_email": null,
+            "user_registration_date": null
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    },
+    "notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "payer": {
+        "address": {
+            "street_name": "chile 333 \/ caba C AR",
+            "street_number": null,
+            "zip_code": "1098"
+        },
+        "date_created": null,
+        "email": "sebastianbj_@hotmail.com",
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "name": "Sebastian",
+        "phone": {
+            "area_code": null,
+            "number": "3865560443"
+        },
+        "surname": "Ovejero"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "installments": 1
+    },
+    "purpose": null,
+    "shipments": {
+        "cost": null,
+        "default_shipping_method": null,
+        "dimensions": null,
+        "free_shipping": null,
+        "local_pickup": null,
+        "mode": null,
+        "receiver_address": {
+            "apartment": "",
+            "city_name": "caba",
+            "floor": null,
+            "state_name": "C",
+            "street_name": "chile 333  caba C AR",
+            "street_number": null,
+            "zip_code": "1098"
+        }
+    },
+    "sponsor_id": null,
+    "statement_descriptor": "Mercado Pago"
+}
+12-20-2022 @ 19:14:12 - [create_preference]: Created Preference: {
+    "additional_info": "",
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_RidRQW16wJ0wM&order_id=211&redirect&_wpnonce=5c677d75b3",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/211\/?key=wc_order_RidRQW16wJ0wM",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/211\/?key=wc_order_RidRQW16wJ0wM"
+    },
+    "binary_mode": false,
+    "client_id": "6444229787319228",
+    "collector": {
+        "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller"
+        ],
+        "operator_id": null
+    },
+    "collector_id": 291638556,
+    "coupon_code": null,
+    "coupon_labels": null,
+    "date_created": "2022-12-20T15:14:11.343-04:00",
+    "date_of_expiration": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": false,
+    "external_reference": "WC-211",
+    "headers": [
+        {
+            "name": "product_id",
+            "value": "BT7OF5FEOO6G01NJK3QG"
+        },
+        {
+            "name": "platform_id",
+            "value": "bo2hnr2ic4p001kbgpt0"
+        }
+    ],
+    "id": "291638556-1425a0b9-f129-437d-969c-889f1ca054a0",
+    "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-1425a0b9-f129-437d-969c-889f1ca054a0",
+    "internal_metadata": [],
+    "items": [
+        {
+            "id": "44",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Japon-sufre-de-manera-constante-el-ataque-de-monstruos-de-diversas-formas-y-tamanos-llamados-KAIJU-que-causan-caos-y-destruccion-por-donde-sea-que-pasan.-A-causa-de-esto-existe-el-Cuerpo-de-Defensa-un-comando-que-se-encarga-d",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_659031-MLA52978284369_122022-F.jpg",
+            "picture_id": "659031-MLA52978284369_122022",
+            "title": "KAIJU Nº 8 VOL.1 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        },
+        {
+            "id": "16",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_804334-MLA52965616682_122022-F.jpg",
+            "picture_id": "804334-MLA52965616682_122022",
+            "title": "BLUE LOCK Vol #1 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        }
+    ],
+    "live_mode": true,
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "metadata": {
+        "basic_settings": {
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "commission_checkbox": "no",
+            "credits_banner": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_visa": "yes",
+            "gateway_discount_checkbox": "no",
+            "installments": "1",
+            "method": "redirect"
+        },
+        "billing_address": {
+            "city_name": "caba",
+            "country_name": "AR",
+            "state_name": "C",
+            "street_name": "chile 333",
+            "zip_code": "1098"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect",
+        "collector": "291638556",
+        "custom_settings": {
+            "binary_mode": "no",
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "wallet_button": "yes"
+        },
+        "details": "",
+        "module_version": "6.4.1",
+        "original_notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "php_version": "8.1.9",
+        "pix_settings": [],
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "seller_website": "http:\/\/mangarevenger.local",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "test_mode": true,
+        "ticket_settings": {
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "enabled": "yes",
+            "stock_reduce_mode": "no"
+        },
+        "user": {
+            "registered_user": "no",
+            "user_email": null,
+            "user_registration_date": null
+        }
+    },
+    "notification_url": "http:\/\/internal.mercadopago.com\/v1\/bifrost\/merchant-order-notification\/webhook\/production?source_news=ipn",
+    "operation_type": "regular_payment",
+    "payer": {
+        "phone": {
+            "area_code": "",
+            "number": "3865560443"
+        },
+        "address": {
+            "zip_code": "1098",
+            "street_name": "chile 333  caba C AR",
+            "street_number": null
+        },
+        "email": "sebastianbj_@hotmail.com",
+        "identification": {
+            "number": "",
+            "type": ""
+        },
+        "name": "Sebastian",
+        "surname": "Ovejero",
+        "date_created": null,
+        "last_purchase": null
+    },
+    "payment_methods": {
+        "default_card_id": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+            {
+                "id": ""
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": ""
+            }
+        ],
+        "installments": 1,
+        "default_installments": null
+    },
+    "processing_modes": null,
+    "product_id": "BT7OF5FEOO6G01NJK3QG",
+    "purpose": "",
+    "redirect_urls": {
+        "failure": "",
+        "pending": "",
+        "success": ""
+    },
+    "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-1425a0b9-f129-437d-969c-889f1ca054a0",
+    "site_id": "MLA",
+    "shipments": {
+        "default_shipping_method": null,
+        "receiver_address": {
+            "zip_code": "1098",
+            "street_name": "chile 333  caba C AR",
+            "street_number": null,
+            "floor": "",
+            "apartment": "",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": null
+        }
+    },
+    "statement_descriptor": "Mercado Pago",
+    "total_amount": 2500,
+    "last_updated": null
+}
+12-20-2022 @ 19:20:06 - [process_payment]: customer being redirected to Mercado Pago.
+12-20-2022 @ 19:20:06 - [get_transaction]: Preference: {
+    "additional_info": null,
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Lq2cx14yEEcXW&order_id=209&redirect&_wpnonce=93abf36716",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW"
+    },
+    "binary_mode": false,
+    "date_of_expiration": null,
+    "differential_pricing": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": null,
+    "external_reference": "WC-209",
+    "items": [
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "id": 42,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/demon-slayer-22-111-04dd1316af5869793c16518744900080-320-0.webp",
+            "quantity": 1,
+            "title": "DEMON SLAYER #22 x 1",
+            "unit_price": 1250
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "id": 16,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/bluelock011-d2dec87c3d65e4ccc916373365514818-320-0.webp",
+            "quantity": 1,
+            "title": "BLUE LOCK Vol #1 x 1",
+            "unit_price": 1250
+        }
+    ],
+    "marketplace": null,
+    "marketplace_fee": null,
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "module_version": "6.4.1",
+        "php_version": "8.1.9",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "291638556",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "installments": "1",
+            "credits_banner": "no",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_master": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_visa": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no"
+        },
+        "ticket_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "coupon_mode": "no",
+            "stock_reduce_mode": "no"
+        },
+        "pix_settings": [],
+        "seller_website": "http:\/\/mangarevenger.local",
+        "billing_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": "AR"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    },
+    "notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "payer": {
+        "address": {
+            "street_name": "chiole 948 \/ caba C AR",
+            "street_number": null,
+            "zip_code": "1112"
+        },
+        "date_created": null,
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "name": "sebast",
+        "phone": {
+            "area_code": null,
+            "number": "41234234234"
+        },
+        "surname": "tataa"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "installments": 1
+    },
+    "purpose": null,
+    "shipments": {
+        "cost": null,
+        "default_shipping_method": null,
+        "dimensions": null,
+        "free_shipping": null,
+        "local_pickup": null,
+        "mode": null,
+        "receiver_address": {
+            "apartment": "",
+            "city_name": "caba",
+            "floor": null,
+            "state_name": "C",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null,
+            "zip_code": "1112"
+        }
+    },
+    "sponsor_id": null,
+    "statement_descriptor": "Mercado Pago"
+}
+12-20-2022 @ 19:20:07 - [create_preference]: Created Preference: {
+    "additional_info": "",
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Lq2cx14yEEcXW&order_id=209&redirect&_wpnonce=93abf36716",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW"
+    },
+    "binary_mode": false,
+    "client_id": "6444229787319228",
+    "collector": {
+        "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller"
+        ],
+        "operator_id": null
+    },
+    "collector_id": 291638556,
+    "coupon_code": null,
+    "coupon_labels": null,
+    "date_created": "2022-12-20T15:20:06.377-04:00",
+    "date_of_expiration": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": false,
+    "external_reference": "WC-209",
+    "headers": [
+        {
+            "name": "product_id",
+            "value": "BT7OF5FEOO6G01NJK3QG"
+        },
+        {
+            "name": "platform_id",
+            "value": "bo2hnr2ic4p001kbgpt0"
+        }
+    ],
+    "id": "291638556-3f7ddeb2-383f-4c45-8127-abe5b461abf1",
+    "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-3f7ddeb2-383f-4c45-8127-abe5b461abf1",
+    "internal_metadata": [],
+    "items": [
+        {
+            "id": "42",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_617434-MLA52965659363_122022-F.jpg",
+            "picture_id": "617434-MLA52965659363_122022",
+            "title": "DEMON SLAYER #22 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        },
+        {
+            "id": "16",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_804334-MLA52965616682_122022-F.jpg",
+            "picture_id": "804334-MLA52965616682_122022",
+            "title": "BLUE LOCK Vol #1 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        }
+    ],
+    "live_mode": true,
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "metadata": {
+        "basic_settings": {
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "commission_checkbox": "no",
+            "credits_banner": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_visa": "yes",
+            "gateway_discount_checkbox": "no",
+            "installments": "1",
+            "method": "redirect"
+        },
+        "billing_address": {
+            "city_name": "caba",
+            "country_name": "AR",
+            "state_name": "C",
+            "street_name": "chiole 948",
+            "zip_code": "1112"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect",
+        "collector": "291638556",
+        "custom_settings": {
+            "binary_mode": "no",
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "wallet_button": "yes"
+        },
+        "details": "",
+        "module_version": "6.4.1",
+        "original_notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "php_version": "8.1.9",
+        "pix_settings": [],
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "seller_website": "http:\/\/mangarevenger.local",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "test_mode": true,
+        "ticket_settings": {
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "enabled": "yes",
+            "stock_reduce_mode": "no"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        }
+    },
+    "notification_url": "http:\/\/internal.mercadopago.com\/v1\/bifrost\/merchant-order-notification\/webhook\/production?source_news=ipn",
+    "operation_type": "regular_payment",
+    "payer": {
+        "phone": {
+            "area_code": "",
+            "number": "41234234234"
+        },
+        "address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null
+        },
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": "",
+            "type": ""
+        },
+        "name": "sebast",
+        "surname": "tataa",
+        "date_created": null,
+        "last_purchase": null
+    },
+    "payment_methods": {
+        "default_card_id": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+            {
+                "id": ""
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": ""
+            }
+        ],
+        "installments": 1,
+        "default_installments": null
+    },
+    "processing_modes": null,
+    "product_id": "BT7OF5FEOO6G01NJK3QG",
+    "purpose": "",
+    "redirect_urls": {
+        "failure": "",
+        "pending": "",
+        "success": ""
+    },
+    "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-3f7ddeb2-383f-4c45-8127-abe5b461abf1",
+    "site_id": "MLA",
+    "shipments": {
+        "default_shipping_method": null,
+        "receiver_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null,
+            "floor": "",
+            "apartment": "",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": null
+        }
+    },
+    "statement_descriptor": "Mercado Pago",
+    "total_amount": 2500,
+    "last_updated": null
+}
+12-20-2022 @ 19:20:24 - [process_payment]: customer being redirected to Mercado Pago.
+12-20-2022 @ 19:20:24 - [get_transaction]: Preference: {
+    "additional_info": null,
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Lq2cx14yEEcXW&order_id=209&redirect&_wpnonce=93abf36716",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW"
+    },
+    "binary_mode": false,
+    "date_of_expiration": null,
+    "differential_pricing": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": null,
+    "external_reference": "WC-209",
+    "items": [
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "id": 42,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/demon-slayer-22-111-04dd1316af5869793c16518744900080-320-0.webp",
+            "quantity": 1,
+            "title": "DEMON SLAYER #22 x 1",
+            "unit_price": 1250
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "id": 16,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/bluelock011-d2dec87c3d65e4ccc916373365514818-320-0.webp",
+            "quantity": 1,
+            "title": "BLUE LOCK Vol #1 x 1",
+            "unit_price": 1250
+        }
+    ],
+    "marketplace": null,
+    "marketplace_fee": null,
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "module_version": "6.4.1",
+        "php_version": "8.1.9",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "291638556",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "installments": "1",
+            "credits_banner": "no",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_master": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_visa": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no"
+        },
+        "ticket_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "coupon_mode": "no",
+            "stock_reduce_mode": "no"
+        },
+        "pix_settings": [],
+        "seller_website": "http:\/\/mangarevenger.local",
+        "billing_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": "AR"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    },
+    "notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "payer": {
+        "address": {
+            "street_name": "chiole 948 \/ caba C AR",
+            "street_number": null,
+            "zip_code": "1112"
+        },
+        "date_created": null,
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "name": "sebast",
+        "phone": {
+            "area_code": null,
+            "number": "41234234234"
+        },
+        "surname": "tataa"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "installments": 1
+    },
+    "purpose": null,
+    "shipments": {
+        "cost": null,
+        "default_shipping_method": null,
+        "dimensions": null,
+        "free_shipping": null,
+        "local_pickup": null,
+        "mode": null,
+        "receiver_address": {
+            "apartment": "",
+            "city_name": "caba",
+            "floor": null,
+            "state_name": "C",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null,
+            "zip_code": "1112"
+        }
+    },
+    "sponsor_id": null,
+    "statement_descriptor": "Mercado Pago"
+}
+12-20-2022 @ 19:20:25 - [create_preference]: Created Preference: {
+    "additional_info": "",
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Lq2cx14yEEcXW&order_id=209&redirect&_wpnonce=93abf36716",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/209\/?key=wc_order_Lq2cx14yEEcXW"
+    },
+    "binary_mode": false,
+    "client_id": "6444229787319228",
+    "collector": {
+        "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller"
+        ],
+        "operator_id": null
+    },
+    "collector_id": 291638556,
+    "coupon_code": null,
+    "coupon_labels": null,
+    "date_created": "2022-12-20T15:20:24.838-04:00",
+    "date_of_expiration": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": false,
+    "external_reference": "WC-209",
+    "headers": [
+        {
+            "name": "product_id",
+            "value": "BT7OF5FEOO6G01NJK3QG"
+        },
+        {
+            "name": "platform_id",
+            "value": "bo2hnr2ic4p001kbgpt0"
+        }
+    ],
+    "id": "291638556-b20f8094-651b-47df-a2f1-6341574c8f44",
+    "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-b20f8094-651b-47df-a2f1-6341574c8f44",
+    "internal_metadata": [],
+    "items": [
+        {
+            "id": "42",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_617434-MLA52965659363_122022-F.jpg",
+            "picture_id": "617434-MLA52965659363_122022",
+            "title": "DEMON SLAYER #22 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        },
+        {
+            "id": "16",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_804334-MLA52965616682_122022-F.jpg",
+            "picture_id": "804334-MLA52965616682_122022",
+            "title": "BLUE LOCK Vol #1 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        }
+    ],
+    "live_mode": true,
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "metadata": {
+        "basic_settings": {
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "commission_checkbox": "no",
+            "credits_banner": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_visa": "yes",
+            "gateway_discount_checkbox": "no",
+            "installments": "1",
+            "method": "redirect"
+        },
+        "billing_address": {
+            "city_name": "caba",
+            "country_name": "AR",
+            "state_name": "C",
+            "street_name": "chiole 948",
+            "zip_code": "1112"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect",
+        "collector": "291638556",
+        "custom_settings": {
+            "binary_mode": "no",
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "wallet_button": "yes"
+        },
+        "details": "",
+        "module_version": "6.4.1",
+        "original_notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "php_version": "8.1.9",
+        "pix_settings": [],
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.1",
+        "seller_website": "http:\/\/mangarevenger.local",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "test_mode": true,
+        "ticket_settings": {
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "enabled": "yes",
+            "stock_reduce_mode": "no"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        }
+    },
+    "notification_url": "http:\/\/internal.mercadopago.com\/v1\/bifrost\/merchant-order-notification\/webhook\/production?source_news=ipn",
+    "operation_type": "regular_payment",
+    "payer": {
+        "phone": {
+            "area_code": "",
+            "number": "41234234234"
+        },
+        "address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null
+        },
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": "",
+            "type": ""
+        },
+        "name": "sebast",
+        "surname": "tataa",
+        "date_created": null,
+        "last_purchase": null
+    },
+    "payment_methods": {
+        "default_card_id": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+            {
+                "id": ""
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": ""
+            }
+        ],
+        "installments": 1,
+        "default_installments": null
+    },
+    "processing_modes": null,
+    "product_id": "BT7OF5FEOO6G01NJK3QG",
+    "purpose": "",
+    "redirect_urls": {
+        "failure": "",
+        "pending": "",
+        "success": ""
+    },
+    "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-b20f8094-651b-47df-a2f1-6341574c8f44",
+    "site_id": "MLA",
+    "shipments": {
+        "default_shipping_method": null,
+        "receiver_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba C AR",
+            "street_number": null,
+            "floor": "",
+            "apartment": "",
+            "city_name": "caba",
+            "state_name": "C",
+            "country_name": null
+        }
+    },
+    "statement_descriptor": "Mercado Pago",
+    "total_amount": 2500,
+    "last_updated": null
+}

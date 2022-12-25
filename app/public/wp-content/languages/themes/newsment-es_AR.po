@@ -1,0 +1,45 @@
+# Translation of Themes - Newsment in Spanish (Argentina)
+# This file is distributed under the same license as the Themes - Newsment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-19 04:05:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.2\n"
+"Language: es_AR\n"
+"Project-Id-Version: Themes - Newsment\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Newsment is a child theme of CoverNews. The theme has a new advertisement widget area, default header image as well as some significant fonts and color configuration adjustments. In addition, the design also modified some of the default nature of the front page layout. You can implement layouts such as a personal blog, modern news journals, fashion magazines, travel blogging & magazine, vibrant news sites, and more. It is also compatible with Elementor, Gutenberg, and RTL language support along with the WooCommerce plugin that helps you to integrate an online business with your blog easily with the help of the available customizer options and widgets. The theme is SEO friendly with optimized code and awesome support."
+msgstr "Newsment es un tema hijo de CoverNews. El tema tiene una nueva área de widgets de publicidad, una imagen de encabezado predeterminado, así como algunos ajustes significativos en la configuración de fuentes y colores. Además, el diseño también modificó algunas de las características predeterminadas del diseño de la portada. Podés implementar diseños como los de un blog personal, revistas de noticias modernas, revistas de moda, blogs y revistas de viajes, sitios de noticias vibrantes y mucho más. También es compatible con Elementor, Gutenberg y el soporte de idiomas RTL junto con el plugin WooCommerce que te ayuda a integrar un negocio online con tu blog fácilmente con la ayuda de las opciones de personalización y los widgets disponibles. El tema es amigable con el SEO, con código optimizado y un soporte impresionante."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Newsment"
+msgstr "Newsment"
+
+#: functions.php:42
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "Agregar widgets para publicidad en la sección de banners de la página de inicio."
+
+#: functions.php:40
+msgid "Front-page Banner Ad Section"
+msgstr "Sección de anuncios en página de inicio"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://afthemes.com"
+msgstr "https://afthemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "AF themes"
+msgstr "AF themes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://afthemes.com/products/newsment/"
+msgstr "https://afthemes.com/products/newsment/"

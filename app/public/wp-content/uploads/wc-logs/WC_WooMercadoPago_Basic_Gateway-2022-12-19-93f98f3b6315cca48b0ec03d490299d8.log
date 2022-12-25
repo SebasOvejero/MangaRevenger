@@ -1,0 +1,790 @@
+12-19-2022 @ 22:59:57 - [process_payment]: customer being redirected to Mercado Pago.
+12-19-2022 @ 22:59:57 - [get_transaction]: Preference: {
+    "additional_info": null,
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Okt7QTYIRXMaq&order_id=205&redirect&_wpnonce=73eac4e508",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/205\/?key=wc_order_Okt7QTYIRXMaq",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/205\/?key=wc_order_Okt7QTYIRXMaq"
+    },
+    "binary_mode": false,
+    "date_of_expiration": null,
+    "differential_pricing": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": null,
+    "external_reference": "WC-205",
+    "items": [
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "id": 16,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/bluelock011-d2dec87c3d65e4ccc916373365514818-320-0.webp",
+            "quantity": 1,
+            "title": "BLUE LOCK Vol #1 x 2",
+            "unit_price": 2500
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Chainsaw-Man-narra-la-historia-de-Denji-un-pobre-infeliz-que-haria-cualquier-cosa-por-guita.-Su-padre-se-suicido-dejandole-una-deuda-impagable-con-la-mafia-jamas-en-su-vida-lo-abrazaron-y-gracias-si-puede-apuntar-a-comerse-u",
+            "id": 22,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/chainsawman061-71032c44ea0cf03f3216258494980563-320-0-2.webp",
+            "quantity": 1,
+            "title": "CHAINSAW MAN Vol #6 x 1",
+            "unit_price": 1250
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "strong¡LLEGA-JUJUTSU-KAISEN-EL-SHONEN-QUE-ESTA-CAUSANDO-FUROR-EN-JAPONstrong-Yuji-Itadori-es-un-estudiante-con-unas-habilidades-fisicas-excepcionales.-Todos-los-dias-como-rutina-va-al-hospital-a-visitar-a-su-abuel",
+            "id": 13,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/unnamed1-d30a9ec78b308e4bcc16211302298941-320-0.webp",
+            "quantity": 1,
+            "title": "Jujutsu Kaisen #1 Reedicion PANINI x 1",
+            "unit_price": 1150
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "El-primer-fanbook-oficial-de-Jujutsu-Kaisen-con-informacion-jamas-revelada-sobre-la-popular-serie-de-Gege-Akutami.-Aqui-se-responden-mas-de-350-preguntas-sobre-los-mas-de-70-personajes-que-componen-su-obra.-Este-fanbook-retom",
+            "id": 28,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/unnamed-41-ad802ce8adcdf6179616669647468505-320-0.webp",
+            "quantity": 1,
+            "title": "JUJUTSU KAISEN FANBOOK OFICIAL x 1",
+            "unit_price": 2000
+        }
+    ],
+    "marketplace": null,
+    "marketplace_fee": null,
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.0",
+        "module_version": "6.4.1",
+        "php_version": "8.1.9",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "291638556",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "installments": "1",
+            "credits_banner": "no",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_master": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_visa": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no"
+        },
+        "ticket_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "coupon_mode": "no",
+            "stock_reduce_mode": "no"
+        },
+        "pix_settings": [],
+        "seller_website": "http:\/\/mangarevenger.local",
+        "billing_address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948",
+            "city_name": "caba",
+            "state_name": "DZ-07",
+            "country_name": "DZ"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    },
+    "notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "payer": {
+        "address": {
+            "street_name": "chiole 948 \/ caba DZ-07 DZ",
+            "street_number": null,
+            "zip_code": "1112"
+        },
+        "date_created": null,
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "name": "sebast",
+        "phone": {
+            "area_code": null,
+            "number": "41234234234"
+        },
+        "surname": "tataa"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "installments": 1
+    },
+    "purpose": null,
+    "shipments": {
+        "cost": null,
+        "default_shipping_method": null,
+        "dimensions": null,
+        "free_shipping": null,
+        "local_pickup": null,
+        "mode": null,
+        "receiver_address": {
+            "apartment": "",
+            "city_name": "",
+            "floor": null,
+            "state_name": "",
+            "street_name": "    ",
+            "street_number": null,
+            "zip_code": ""
+        }
+    },
+    "sponsor_id": null,
+    "statement_descriptor": "Mercado Pago"
+}
+12-19-2022 @ 22:59:58 - [create_preference]: Created Preference: {
+    "additional_info": "",
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_Okt7QTYIRXMaq&order_id=205&redirect&_wpnonce=73eac4e508",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/205\/?key=wc_order_Okt7QTYIRXMaq",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/205\/?key=wc_order_Okt7QTYIRXMaq"
+    },
+    "binary_mode": false,
+    "client_id": "6444229787319228",
+    "collector": {
+        "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller"
+        ],
+        "operator_id": null
+    },
+    "collector_id": 291638556,
+    "coupon_code": null,
+    "coupon_labels": null,
+    "date_created": "2022-12-19T18:59:57.266-04:00",
+    "date_of_expiration": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": false,
+    "external_reference": "WC-205",
+    "headers": [
+        {
+            "name": "product_id",
+            "value": "BT7OF5FEOO6G01NJK3QG"
+        },
+        {
+            "name": "platform_id",
+            "value": "bo2hnr2ic4p001kbgpt0"
+        }
+    ],
+    "id": "291638556-96f3f41a-177f-45d5-ac11-8efa0e6b08fa",
+    "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-96f3f41a-177f-45d5-ac11-8efa0e6b08fa",
+    "internal_metadata": [],
+    "items": [
+        {
+            "id": "16",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "La-eliminacion-del-seleccionado-japones-del-Mundial-de-2018-impulsa-a-la-Asociacion-de-Futbol-de-Japon-a-iniciar-un-programa-para-captar-jugadores-de-los-equipos-de-escuelas-secundarias-y-prepararlos-para-la-proxima-Copa-del",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_804334-MLA52965616682_122022-F.jpg",
+            "picture_id": "804334-MLA52965616682_122022",
+            "title": "BLUE LOCK Vol #1 x 2",
+            "quantity": 1,
+            "unit_price": 2500
+        },
+        {
+            "id": "22",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Chainsaw-Man-narra-la-historia-de-Denji-un-pobre-infeliz-que-haria-cualquier-cosa-por-guita.-Su-padre-se-suicido-dejandole-una-deuda-impagable-con-la-mafia-jamas-en-su-vida-lo-abrazaron-y-gracias-si-puede-apuntar-a-comerse-u",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_857547-MLA52965616685_122022-F.jpg",
+            "picture_id": "857547-MLA52965616685_122022",
+            "title": "CHAINSAW MAN Vol #6 x 1",
+            "quantity": 1,
+            "unit_price": 1250
+        },
+        {
+            "id": "13",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "strong¡LLEGA-JUJUTSU-KAISEN-EL-SHONEN-QUE-ESTA-CAUSANDO-FUROR-EN-JAPONstrong-Yuji-Itadori-es-un-estudiante-con-unas-habilidades-fisicas-excepcionales.-Todos-los-dias-como-rutina-va-al-hospital-a-visitar-a-su-abuel",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_951903-MLA52965616683_122022-F.jpg",
+            "picture_id": "951903-MLA52965616683_122022",
+            "title": "Jujutsu Kaisen #1 Reedicion PANINI x 1",
+            "quantity": 1,
+            "unit_price": 1150
+        },
+        {
+            "id": "28",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "El-primer-fanbook-oficial-de-Jujutsu-Kaisen-con-informacion-jamas-revelada-sobre-la-popular-serie-de-Gege-Akutami.-Aqui-se-responden-mas-de-350-preguntas-sobre-los-mas-de-70-personajes-que-componen-su-obra.-Este-fanbook-retom",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_691567-MLA52965616684_122022-F.jpg",
+            "picture_id": "691567-MLA52965616684_122022",
+            "title": "JUJUTSU KAISEN FANBOOK OFICIAL x 1",
+            "quantity": 1,
+            "unit_price": 2000
+        }
+    ],
+    "live_mode": true,
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "metadata": {
+        "basic_settings": {
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "commission_checkbox": "no",
+            "credits_banner": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_visa": "yes",
+            "gateway_discount_checkbox": "no",
+            "installments": "1",
+            "method": "redirect"
+        },
+        "billing_address": {
+            "city_name": "caba",
+            "country_name": "DZ",
+            "state_name": "DZ-07",
+            "street_name": "chiole 948",
+            "zip_code": "1112"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect",
+        "collector": "291638556",
+        "custom_settings": {
+            "binary_mode": "no",
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "wallet_button": "yes"
+        },
+        "details": "",
+        "module_version": "6.4.1",
+        "original_notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "php_version": "8.1.9",
+        "pix_settings": [],
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.0",
+        "seller_website": "http:\/\/mangarevenger.local",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "test_mode": true,
+        "ticket_settings": {
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "enabled": "yes",
+            "stock_reduce_mode": "no"
+        },
+        "user": {
+            "registered_user": "yes",
+            "user_email": "dev-email@flywheel.local",
+            "user_registration_date": "2022-12-14T21:22:40.000+00:00"
+        }
+    },
+    "notification_url": "http:\/\/internal.mercadopago.com\/v1\/bifrost\/merchant-order-notification\/webhook\/production?source_news=ipn",
+    "operation_type": "regular_payment",
+    "payer": {
+        "phone": {
+            "area_code": "",
+            "number": "41234234234"
+        },
+        "address": {
+            "zip_code": "1112",
+            "street_name": "chiole 948  caba DZ-07 DZ",
+            "street_number": null
+        },
+        "email": "dev-email@flywheel.local",
+        "identification": {
+            "number": "",
+            "type": ""
+        },
+        "name": "sebast",
+        "surname": "tataa",
+        "date_created": null,
+        "last_purchase": null
+    },
+    "payment_methods": {
+        "default_card_id": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+            {
+                "id": ""
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": ""
+            }
+        ],
+        "installments": 1,
+        "default_installments": null
+    },
+    "processing_modes": null,
+    "product_id": "BT7OF5FEOO6G01NJK3QG",
+    "purpose": "",
+    "redirect_urls": {
+        "failure": "",
+        "pending": "",
+        "success": ""
+    },
+    "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-96f3f41a-177f-45d5-ac11-8efa0e6b08fa",
+    "site_id": "MLA",
+    "shipments": {
+        "default_shipping_method": null,
+        "receiver_address": {
+            "zip_code": "",
+            "street_name": "    ",
+            "street_number": null,
+            "floor": "",
+            "apartment": "",
+            "city_name": "",
+            "state_name": "",
+            "country_name": null
+        }
+    },
+    "statement_descriptor": "Mercado Pago",
+    "total_amount": 6900,
+    "last_updated": null
+}
+12-19-2022 @ 23:01:50 - [process_payment]: customer being redirected to Mercado Pago.
+12-19-2022 @ 23:01:50 - [get_transaction]: Preference: {
+    "additional_info": null,
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_eTvMXT3tPJXE9&order_id=206&redirect&_wpnonce=e26b112d90",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/206\/?key=wc_order_eTvMXT3tPJXE9",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/206\/?key=wc_order_eTvMXT3tPJXE9"
+    },
+    "binary_mode": false,
+    "date_of_expiration": null,
+    "differential_pricing": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": null,
+    "external_reference": "WC-206",
+    "items": [
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "id": 42,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/demon-slayer-22-111-04dd1316af5869793c16518744900080-320-0.webp",
+            "quantity": 1,
+            "title": "DEMON SLAYER #22 x 2",
+            "unit_price": 2500
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "18-CM-aprox",
+            "id": 47,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/tokito-sentado1-205d0465afd8582cad16713113619865-320-0.webp",
+            "quantity": 1,
+            "title": "FIGURA DEMON SLAYER SENTADOS x 1",
+            "unit_price": 5500
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "18-CM-aprox",
+            "id": 47,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/tokito-sentado1-205d0465afd8582cad16713113619865-320-0.webp",
+            "quantity": 1,
+            "title": "FIGURA DEMON SLAYER SENTADOS x 1",
+            "unit_price": 5500
+        },
+        {
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "strong¡LLEGA-JUJUTSU-KAISEN-EL-SHONEN-QUE-ESTA-CAUSANDO-FUROR-EN-JAPONstrong-Yuji-Itadori-es-un-estudiante-con-unas-habilidades-fisicas-excepcionales.-Todos-los-dias-como-rutina-va-al-hospital-a-visitar-a-su-abuel",
+            "id": 13,
+            "picture_url": "http:\/\/mangarevenger.local\/wp-content\/uploads\/2022\/12\/unnamed1-d30a9ec78b308e4bcc16211302298941-320-0.webp",
+            "quantity": 1,
+            "title": "Jujutsu Kaisen #1 Reedicion PANINI x 1",
+            "unit_price": 1150
+        }
+    ],
+    "marketplace": null,
+    "marketplace_fee": null,
+    "metadata": {
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.0",
+        "module_version": "6.4.1",
+        "php_version": "8.1.9",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "collector": "291638556",
+        "test_mode": true,
+        "details": "",
+        "basic_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "installments": "1",
+            "credits_banner": "no",
+            "method": "redirect",
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "ex_payments_master": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_visa": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_pagofacil": "yes",
+            "gateway_discount_checkbox": "no",
+            "commission_checkbox": "no"
+        },
+        "custom_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "wallet_button": "yes",
+            "coupon_mode": "no",
+            "binary_mode": "no"
+        },
+        "ticket_settings": {
+            "enabled": "yes",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "coupon_mode": "no",
+            "stock_reduce_mode": "no"
+        },
+        "pix_settings": [],
+        "seller_website": "http:\/\/mangarevenger.local",
+        "billing_address": {
+            "zip_code": "1233",
+            "street_name": "chile 99",
+            "city_name": "caba",
+            "state_name": "",
+            "country_name": "AF"
+        },
+        "user": {
+            "registered_user": "no",
+            "user_email": null,
+            "user_registration_date": null
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect"
+    },
+    "notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+    "payer": {
+        "address": {
+            "street_name": "chile 99 \/ caba  AF",
+            "street_number": null,
+            "zip_code": "1233"
+        },
+        "date_created": null,
+        "email": "1234@hma.com",
+        "identification": {
+            "number": null,
+            "type": null
+        },
+        "name": "sebastian",
+        "phone": {
+            "area_code": null,
+            "number": "13232141412"
+        },
+        "surname": "asdad"
+    },
+    "payment_methods": {
+        "default_installments": null,
+        "default_payment_method_id": null,
+        "installments": 1
+    },
+    "purpose": null,
+    "shipments": {
+        "cost": null,
+        "default_shipping_method": null,
+        "dimensions": null,
+        "free_shipping": null,
+        "local_pickup": null,
+        "mode": null,
+        "receiver_address": {
+            "apartment": "",
+            "city_name": "",
+            "floor": null,
+            "state_name": "",
+            "street_name": "    ",
+            "street_number": null,
+            "zip_code": ""
+        }
+    },
+    "sponsor_id": null,
+    "statement_descriptor": "Mercado Pago"
+}
+12-19-2022 @ 23:01:51 - [create_preference]: Created Preference: {
+    "additional_info": "",
+    "auto_return": "approved",
+    "back_urls": {
+        "failure": "http:\/\/mangarevenger.local\/cart\/?cancel_order=true&order=wc_order_eTvMXT3tPJXE9&order_id=206&redirect&_wpnonce=e26b112d90",
+        "pending": "http:\/\/mangarevenger.local\/checkout\/order-received\/206\/?key=wc_order_eTvMXT3tPJXE9",
+        "success": "http:\/\/mangarevenger.local\/checkout\/order-received\/206\/?key=wc_order_eTvMXT3tPJXE9"
+    },
+    "binary_mode": false,
+    "client_id": "6444229787319228",
+    "collector": {
+        "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller"
+        ],
+        "operator_id": null
+    },
+    "collector_id": 291638556,
+    "coupon_code": null,
+    "coupon_labels": null,
+    "date_created": "2022-12-19T19:01:50.384-04:00",
+    "date_of_expiration": null,
+    "expiration_date_from": null,
+    "expiration_date_to": null,
+    "expires": false,
+    "external_reference": "WC-206",
+    "headers": [
+        {
+            "name": "product_id",
+            "value": "BT7OF5FEOO6G01NJK3QG"
+        },
+        {
+            "name": "platform_id",
+            "value": "bo2hnr2ic4p001kbgpt0"
+        }
+    ],
+    "id": "291638556-ca98a9f9-bace-4c44-bed0-e4ec10d0a12e",
+    "init_point": "https:\/\/www.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-ca98a9f9-bace-4c44-bed0-e4ec10d0a12e",
+    "internal_metadata": [],
+    "items": [
+        {
+            "id": "42",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "Narra-las-aventuras-de-Tanjiro-Kamado-un-joven-amable-y-de-buen-corazon-que-vive-con-su-madre-y-cinco-hermanos-en-las-montanas-y-se-dedica-a-vender-carbon-para-subsistir.-Un-dia-que-Tanjiro-estaba-volviendo-de-sus-labores-u",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_617434-MLA52965659363_122022-F.jpg",
+            "picture_id": "617434-MLA52965659363_122022",
+            "title": "DEMON SLAYER #22 x 2",
+            "quantity": 1,
+            "unit_price": 2500
+        },
+        {
+            "id": "47",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "18-CM-aprox",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_666124-MLA52965659362_122022-F.jpg",
+            "picture_id": "666124-MLA52965659362_122022",
+            "title": "FIGURA DEMON SLAYER SENTADOS x 1",
+            "quantity": 1,
+            "unit_price": 5500
+        },
+        {
+            "id": "47",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "18-CM-aprox",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_996110-MLA52965658463_122022-F.jpg",
+            "picture_id": "996110-MLA52965658463_122022",
+            "title": "FIGURA DEMON SLAYER SENTADOS x 1",
+            "quantity": 1,
+            "unit_price": 5500
+        },
+        {
+            "id": "13",
+            "category_id": "others",
+            "currency_id": "ARS",
+            "description": "strong¡LLEGA-JUJUTSU-KAISEN-EL-SHONEN-QUE-ESTA-CAUSANDO-FUROR-EN-JAPONstrong-Yuji-Itadori-es-un-estudiante-con-unas-habilidades-fisicas-excepcionales.-Todos-los-dias-como-rutina-va-al-hospital-a-visitar-a-su-abuel",
+            "picture_url": "https:\/\/http2.mlstatic.com\/D_NQ_NP_951903-MLA52965616683_122022-F.jpg",
+            "picture_id": "951903-MLA52965616683_122022",
+            "title": "Jujutsu Kaisen #1 Reedicion PANINI x 1",
+            "quantity": 1,
+            "unit_price": 1150
+        }
+    ],
+    "live_mode": true,
+    "marketplace": "NONE",
+    "marketplace_fee": 0,
+    "metadata": {
+        "basic_settings": {
+            "auto_return": "yes",
+            "binary_mode": "no",
+            "commission_checkbox": "no",
+            "credits_banner": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "ex_payments_amex": "yes",
+            "ex_payments_argencard": "yes",
+            "ex_payments_cabal": "yes",
+            "ex_payments_cencosud": "yes",
+            "ex_payments_cmr": "yes",
+            "ex_payments_debcabal": "yes",
+            "ex_payments_debmaster": "yes",
+            "ex_payments_debvisa": "yes",
+            "ex_payments_diners": "yes",
+            "ex_payments_maestro": "yes",
+            "ex_payments_master": "yes",
+            "ex_payments_naranja": "yes",
+            "ex_payments_pagofacil": "yes",
+            "ex_payments_tarshop": "yes",
+            "ex_payments_visa": "yes",
+            "gateway_discount_checkbox": "no",
+            "installments": "1",
+            "method": "redirect"
+        },
+        "billing_address": {
+            "city_name": "caba",
+            "country_name": "AF",
+            "state_name": "",
+            "street_name": "chile 99",
+            "zip_code": "1233"
+        },
+        "checkout": "smart",
+        "checkout_type": "redirect",
+        "collector": "291638556",
+        "custom_settings": {
+            "binary_mode": "no",
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "enabled": "yes",
+            "wallet_button": "yes"
+        },
+        "details": "",
+        "module_version": "6.4.1",
+        "original_notification_url": "http:\/\/mangarevenger.local\/wc-api\/WC_WooMercadoPago_Basic_Gateway\/?source_news=ipn",
+        "php_version": "8.1.9",
+        "pix_settings": [],
+        "platform": "bo2hnr2ic4p001kbgpt0",
+        "platform_version": "7.2.0",
+        "seller_website": "http:\/\/mangarevenger.local",
+        "site_id": "mla",
+        "sponsor_id": 208682286,
+        "test_mode": true,
+        "ticket_settings": {
+            "coupon_mode": "no",
+            "currency_conversion": "no",
+            "date_expiration": 3,
+            "enabled": "yes",
+            "stock_reduce_mode": "no"
+        },
+        "user": {
+            "registered_user": "no",
+            "user_email": null,
+            "user_registration_date": null
+        }
+    },
+    "notification_url": "http:\/\/internal.mercadopago.com\/v1\/bifrost\/merchant-order-notification\/webhook\/production?source_news=ipn",
+    "operation_type": "regular_payment",
+    "payer": {
+        "phone": {
+            "area_code": "",
+            "number": "13232141412"
+        },
+        "address": {
+            "zip_code": "1233",
+            "street_name": "chile 99  caba  AF",
+            "street_number": null
+        },
+        "email": "1234@hma.com",
+        "identification": {
+            "number": "",
+            "type": ""
+        },
+        "name": "sebastian",
+        "surname": "asdad",
+        "date_created": null,
+        "last_purchase": null
+    },
+    "payment_methods": {
+        "default_card_id": null,
+        "default_payment_method_id": null,
+        "excluded_payment_methods": [
+            {
+                "id": ""
+            }
+        ],
+        "excluded_payment_types": [
+            {
+                "id": ""
+            }
+        ],
+        "installments": 1,
+        "default_installments": null
+    },
+    "processing_modes": null,
+    "product_id": "BT7OF5FEOO6G01NJK3QG",
+    "purpose": "",
+    "redirect_urls": {
+        "failure": "",
+        "pending": "",
+        "success": ""
+    },
+    "sandbox_init_point": "https:\/\/sandbox.mercadopago.com.ar\/checkout\/v1\/redirect?pref_id=291638556-ca98a9f9-bace-4c44-bed0-e4ec10d0a12e",
+    "site_id": "MLA",
+    "shipments": {
+        "default_shipping_method": null,
+        "receiver_address": {
+            "zip_code": "",
+            "street_name": "    ",
+            "street_number": null,
+            "floor": "",
+            "apartment": "",
+            "city_name": "",
+            "state_name": "",
+            "country_name": null
+        }
+    },
+    "statement_descriptor": "Mercado Pago",
+    "total_amount": 14650,
+    "last_updated": null
+}
